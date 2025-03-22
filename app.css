@@ -1,0 +1,20 @@
+.mainCon {
+    display: flex;
+    justify-content: center;
+}
+
+.green {
+    width: 300px;
+    height: 200px;
+    background-color: #006851;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: #b72027;
+    border-radius: 100%;
+}
